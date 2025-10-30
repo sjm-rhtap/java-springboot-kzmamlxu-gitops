@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/sjmrhtap/java-springboot-kzmamlxu:de0abd57c8014d01ef26f6e760b02669181941f4@sha256:06f875ba3240807ed16373c94304ba91570c397f323b5c5c980b5db57ef07254
+        - image: quay.io/sjmrhtap/java-springboot-kzmamlxu:69f595c5c34691d8901d06122e6061387a6f6aac@sha256:f4018da9bc3baf9395d6881366792759ef05ee51e3e2aec51ea5f21f24482868
           name: container-image
